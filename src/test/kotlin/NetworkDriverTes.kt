@@ -1,8 +1,6 @@
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 import singleton.NetworkDriver
-import kotlin.test.assertEquals
-import kotlin.test.assertIs
 
 class NetworkDriverTes {
 
